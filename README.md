@@ -1,28 +1,12 @@
-# AngularSimpleTodoList
+# Angular - Simple To-Do list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1. You may want to know about how you can start [here](README.md).
 
-## Development server
+## References
+* [Angular services](https://angular.io/tutorial/toh-pt4)
+* [Building a Todo App with Angular CLI](https://www.sitepoint.com/angular-2-tutorial/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
+### Deployment
+* [Angular deployment](https://angular.io/guide/deployment)
+* [Angular 5 Deployment - Deploy your Angular App](https://coursetro.com/posts/code/112/Angular-5-Deployment---Deploy-your-Angular-App)
