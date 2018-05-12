@@ -41,5 +41,6 @@ input[type="checkbox"]{width: 1.3em;height: 1.3em;position: relative;}
 .app{width: 26em;}
 
 app-root > div > p {font-size: 2em;font-weight: bold;text-align: center;}
+app-todoform > input {padding-left: 0.5em;padding-right: 0.5em;}
 app-todolist > div > ul > li > span > span {text-decoration: line-through; color: #999999;}
 app-todolist > div > button {padding: 0.5em; border-radius: 20px;}
