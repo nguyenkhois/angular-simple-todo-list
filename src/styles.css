@@ -39,6 +39,7 @@ input[type="text"]:focus{border: 1px solid #0094ff;box-shadow: 0 0 5px #0094ff;}
 input[type="checkbox"]{width: 1.3em;height: 1.3em;position: relative;}
 
 .app{width: 26em;}
-.title {font-size: 2em;font-weight: bold;text-align: center;}
-.strike-text{text-decoration: line-through; color: #999999;}
-.remove-completed {padding: 0.5em; border-radius: 20px;}
+
+app-root > div > p {font-size: 2em;font-weight: bold;text-align: center;}
+app-todolist > div > ul > li > span > span {text-decoration: line-through; color: #999999;}
+app-todolist > div > button {padding: 0.5em; border-radius: 20px;}

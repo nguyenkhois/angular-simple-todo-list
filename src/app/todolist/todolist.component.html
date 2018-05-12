@@ -3,7 +3,7 @@
         <li *ngFor="let task of tasksFromService">
             <span *ngIf="task.isDone; else elseBlock">
                 <input type="checkbox" (click)="handleCheck(task.id)" checked>
-                <span class="strike-text">{{ task.description }}</span>
+                <span>{{ task.description }}</span>
             </span>
             <ng-template #elseBlock>
                 <input type="checkbox" (click)="handleCheck(task.id)">
@@ -13,5 +13,5 @@
             <button type="button" (click)="handleRemove(task.id)">Remove</button>
         </li>
     </ul>
-    <button type="button" class="remove-completed" (click)="handleRemoveCompleted()">Remove completed</button>
+    <button type="button" (click)="handleRemoveCompleted()">Remove completed</button>
 </div>
