@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1. You may want to know about how you can start [here](ANGULAR.md).
 
+## Overview
+![Overview](src/assets/overview.png)
+
 ## References
 ### Guides
 * [Angular services](https://angular.io/tutorial/toh-pt4)
