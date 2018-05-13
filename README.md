@@ -1,9 +1,9 @@
 # Angular - Simple To-Do list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1. You may want to know about how you can start [here](ANGULAR.md).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1. You may want to know about how you can [start here](ANGULAR.md) and view [online demo here](https://nguyenkhois.github.io/angular-simple-todo-list/dist/).
 
 ## Overview
-![Overview](src/assets/overview.png)
+![Overview](src/assets/overviewstructure.png)
 
 ## References
 ### Guides
